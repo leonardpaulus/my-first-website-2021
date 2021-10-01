@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-289,-64)">
+        <g id="Volleyball" transform="matrix(0.0126792,0,0,0.0126792,289.591,64.7696)">
+            <path d="M1189,6750C1687,6525 2160,6259 2588,5917C1492,4698 733,3143 864,1474C-400,3049 -265,5335 1189,6750Z" style="fill:rgb(72,130,134);fill-rule:nonzero;"/>
+            <path d="M6091,4020C5426,3800 4714,3738 4054,4015C3882,5431 2592,6372 1392,6935C1836,7312 2352,7583 2915,7733C4589,6996 5534,5735 6091,4020Z" style="fill:rgb(72,130,134);fill-rule:nonzero;"/>
+            <path d="M7746,4899C7303,4581 6837,4305 6328,4106C5820,5664 4852,7101 3341,7821C5340,8123 7250,6864 7746,4899Z" style="fill:rgb(48,82,82);fill-rule:nonzero;"/>
+            <path d="M2933,2017C3076,2705 3379,3353 3951,3785C5260,3230 6718,3875 7804,4631C7906,4060 7881,3466 7730,2906C6267,1830 4690,1643 2933,2017Z" style="fill:rgb(72,130,134);fill-rule:nonzero;"/>
+            <path d="M2866,147C2813,689 2807,1229 2889,1769C4490,1430 6214,1549 7593,2493C6850,605 4799,-396 2866,147Z" style="fill:rgb(72,130,134);fill-rule:nonzero;"/>
+            <path d="M2606,230C2060,426 1562,743 1152,1153C989,3013 1537,4374 2780,5755C3305,5288 3715,4702 3804,3990C2665,3134 2494,1549 2606,230Z" style="fill:rgb(48,82,82);fill-rule:nonzero;"/>
+            <g transform="matrix(1,0,0,1,0,7881)">
+                <text x="0px" y="0px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:5px;fill:rgb(72,130,134);">Created by ladhina</text>
+            </g>
+            <g transform="matrix(1,0,0,1,0,7886)">
+                <text x="0px" y="0px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:5px;fill:rgb(72,130,134);">from the Noun Project</text>
+            </g>
+        </g>
+    </g>
+</svg>
