@@ -4,6 +4,8 @@ body {
     font-family: Raleway;
 }
 
+/*-----Header-----*/
+
 h1 {
     font-weight: 800;
     font-size: 4.5rem;
@@ -32,12 +34,16 @@ h2 {
     height: 100%;
 }
 
+/*-----Body-----*/
+
+/*-----Hobbies-----*/
+
 .hobbies {
     display: grid;
-    grid-template-columns: 200px 1fr 1fr 1fr 200px;
-    grid-template-rows: 100px 1fr 3fr;
+    grid-template-columns: 10% 1fr 1fr 1fr 10%;
+    grid-template-rows: 100px 1fr 4fr;
     justify-items: center;
-    align-items: center;
+    align-items: start;
 }
 
 .card1{
@@ -49,7 +55,12 @@ h2 {
 }
 
 .card1 .text {
-    width: 300px;
+    padding: 0 20px;
+    max-width: 300px;
+}
+
+.card1 .text p {
+    margin: 0px;
 }
 
 .card2 {
@@ -61,7 +72,12 @@ h2 {
 }
 
 .card2 .text {
-    width: 300px;
+    padding: 0 20px;
+    max-width: 300px;
+}
+
+.card2 .text p {
+    margin: 0px;
 }
 
 .card3 {
@@ -73,7 +89,12 @@ h2 {
 }
 
 .card3 .text {
-    width: 300px;
+    padding: 0 20px;
+    max-width: 300px;
+}
+
+.card3 .text p {
+    margin: 0px;
 }
 
 .hobbies  img  {
@@ -102,8 +123,9 @@ h2 {
 
 article p {
     font-weight: 300;
-
 }
+
+/*-----Freundschaftsanfrage-----*/
 
 .friendrequest {
     display: grid;
