@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 21 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-2,-13)">
+        <g id="Pfeil" transform="matrix(0.210526,0,0,0.210526,1.97368,10.7961)">
+            <g>
+                <path d="M95.4,45L66.1,15.7C63.4,13 58.9,13 56.2,15.7C53.5,18.4 53.5,22.9 56.2,25.6L73.5,43L9.5,43C5.6,43 2.5,46.1 2.5,50C2.5,53.9 5.6,57 9.5,57L73.5,57L56.2,74.3C53.5,77 53.5,81.5 56.2,84.2C57.6,85.6 59.4,86.3 61.2,86.3C63,86.3 64.8,85.6 66.2,84.2L95.4,55C96.7,53.7 97.5,51.9 97.5,50C97.5,48.1 96.8,46.3 95.4,45Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+</svg>

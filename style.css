@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: Raleway;
+}
+
+/*-----Header-----*/
+
+h1 {
+    font-weight: 800;
+    font-size: 4.5rem;
+    color: #373E40;
+    text-transform: uppercase;
+    margin: 1rem
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 2.2rem;
+    color: #305252;
+    margin:1rem;
+}
+
+.header {
+    display: grid;
+    background-color: #F0E7E0;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 600px;
+    justify-items: center;
+    align-items: center;
+}
+
+.profilepic {
+    height: 100%;
+}
+
+/*-----Body-----*/
+
+/*-----Hobbies-----*/
+
+.hobbies {
+    display: grid;
+    grid-template-columns: 10% 1fr 1fr 1fr 10%;
+    grid-template-rows: 100px 1fr 4fr;
+    justify-items: center;
+    align-items: start;
+}
+
+.card1{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    text-align: center;
+}
+
+.card1 .text {
+    padding: 0 20px;
+    max-width: 300px;
+}
+
+.card1 .text p {
+    margin: 0px;
+}
+
+.card2 {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    text-align: center;
+}
+
+.card2 .text {
+    padding: 0 20px;
+    max-width: 300px;
+}
+
+.card2 .text p {
+    margin: 0px;
+}
+
+.card3 {
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    text-align: center;
+}
+
+.card3 .text {
+    padding: 0 20px;
+    max-width: 300px;
+}
+
+.card3 .text p {
+    margin: 0px;
+}
+
+.hobbies  img  {
+    height: 5rem;
+    width: 100%;
+}
+
+.hobbies h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #373E40;
+}
+
+.heading h1 {
+    font-size: 2.5rem;
+    margin: 0px;
+}
+
+.hobbies .heading {
+    grid-column-start: 2;
+    grid-column-end: 5;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    margin: 2rem 0 2rem 0;
+}
+
+article p {
+    font-weight: 300;
+}
+
+/*-----Freundschaftsanfrage-----*/
+
+.friendrequest {
+    display: grid;
+    grid-template-columns: 200px 1fr 200px;
+    grid-template-rows: 100px 150px 150px;
+    justify-items: center;
+    align-items: center;
+}
+
+.friendrequest h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #373E40;
+}
+
+.friendrequest h3 {
+    font-size: 1.5rem;
+    font-weight:  500;
+    color: #488286;
+}
+
+.friendrequest .heading {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    margin: 2rem 0 2rem 0;
+    text-align: center;
+}
+
+.form {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    justify-items: center;
+
+}
+
+.form input {
+    width: 300px;
+    height: 30px;
+    margin: 5px;
+    padding: 0 0 0 15px;
+    font-weight: 100;
+    background-color: #F0E7E0;
+    border: 0px;
+    border-radius: 30px;
+}
+
+::placeholder {
+    color: #488286;
+    opacity: 0.5;
+}
+
+.button {
+    background-color: #FF7F11;
+    color: white;
+    padding: 0;
+    width: 120px;
+    height: 30px;
+    font-family: Raleway;
+    border-radius: 30px;
+    border: 0px;
+    margin: 15px; 
+}
+
+.button:hover {
+    transform: scale(1.05);
+    transition: .4s;
+}
+
+.button img {
+    width: 15px;
+    height 100%;
+    margin: 0 0 0 5px;
+}
+
