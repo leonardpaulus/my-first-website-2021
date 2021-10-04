@@ -2,6 +2,7 @@
 
 body {
     font-family: Raleway;
+    margin: 0;
 }
 
 /*-----Header-----*/
@@ -24,14 +25,15 @@ h2 {
 .header {
     display: grid;
     background-color: #F0E7E0;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 600px;
+    grid-template-columns: repeat( auto-fit, minmax(320px, 1fr) );
+    grid-template-rows: repeat( auto-fit, minmax 600px, 1fr)
     justify-items: center;
     align-items: center;
 }
 
 .profilepic {
-    height: 100%;
+    width: 100%;
+    align-self: end;
 }
 
 /*-----Body-----*/
